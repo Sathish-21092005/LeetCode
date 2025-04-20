@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sathish-21092005/LeetCode/tree/master/0118-pascals-triangle) |
+| [0566-reshape-the-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sathish-21092005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
 |  |
@@ -52,5 +53,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sathish-21092005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
