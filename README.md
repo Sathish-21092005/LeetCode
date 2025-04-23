@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sathish-21092005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/Sathish-21092005/LeetCode/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/Sathish-21092005/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Sathish-21092005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Sathish-21092005/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/Sathish-21092005/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sathish-21092005/LeetCode/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/Sathish-21092005/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sathish-21092005/LeetCode/tree/master/0409-longest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Sathish-21092005/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
