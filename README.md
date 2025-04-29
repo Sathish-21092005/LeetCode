@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Sathish-21092005/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Sathish-21092005/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/Sathish-21092005/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sathish-21092005/LeetCode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Sathish-21092005/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sathish-21092005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2128-reverse-prefix-of-word](https://github.com/Sathish-21092005/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Sathish-21092005/LeetCode/tree/master/0392-is-subsequence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/Sathish-21092005/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Enumeration
 |  |
 | ------- |
