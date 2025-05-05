@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Sathish-21092005/LeetCode/tree/master/0605-can-place-flowers) |
 | [0777-toeplitz-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sathish-21092005/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1580-shuffle-the-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/Sathish-21092005/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sathish-21092005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
