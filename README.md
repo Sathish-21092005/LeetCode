@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0189-rotate-array) |
 | [1610-xor-operation-in-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sathish-21092005/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/Sathish-21092005/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Bit Manipulation
@@ -100,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sathish-21092005/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Sathish-21092005/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Sathish-21092005/LeetCode/tree/master/0455-assign-cookies) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sathish-21092005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Sathish-21092005/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Sathish-21092005/LeetCode/tree/master/0605-can-place-flowers) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Two Pointers
 |  |
 | ------- |
