@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Sathish-21092005/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sathish-21092005/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/Sathish-21092005/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sathish-21092005/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Sathish-21092005/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Sathish-21092005/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/Sathish-21092005/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sathish-21092005/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Sathish-21092005/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Queue
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sathish-21092005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Sathish-21092005/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Sathish-21092005/LeetCode/tree/master/0605-can-place-flowers) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sathish-21092005/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Two Pointers
 |  |
