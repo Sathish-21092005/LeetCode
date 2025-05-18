@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0189-rotate-array) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sathish-21092005/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sathish-21092005/LeetCode/tree/master/0035-search-insert-position) |
 | [2634-minimum-common-value](https://github.com/Sathish-21092005/LeetCode/tree/master/2634-minimum-common-value) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
