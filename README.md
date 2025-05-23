@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Sathish-21092005/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2645-pass-the-pillow](https://github.com/Sathish-21092005/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Sathish-21092005/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
+| [3859-maximum-product-of-two-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sathish-21092005/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sathish-21092005/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3859-maximum-product-of-two-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
