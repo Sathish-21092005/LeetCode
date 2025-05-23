@@ -4,16 +4,16 @@ public:
         int totalapples=accumulate(apple.begin(),apple.end() ,0);
         sort(capacity.rbegin(),capacity.rend());
 
-        int a=0;
-        int b=0;
+        int currentcapacity=0;
+        int usedboxes=0;
 
         for(int cap:capacity)
         {
-            a+=cap;
-            b++;
-        if(a>=totalapples)
+            currentcapacity+=cap;
+            usedboxes++;
+        if(currentcapacity>=totalapples)
         break;
         }
-        return b;
+        return usedboxes;
     }
 };
