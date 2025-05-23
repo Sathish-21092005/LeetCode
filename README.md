@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sathish-21092005/LeetCode/tree/master/0409-longest-palindrome) |
 | [1297-maximum-number-of-balloons](https://github.com/Sathish-21092005/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Sathish-21092005/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sathish-21092005/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/Sathish-21092005/LeetCode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sathish-21092005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1944-truncate-sentence](https://github.com/Sathish-21092005/LeetCode/tree/master/1944-truncate-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sathish-21092005/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/Sathish-21092005/LeetCode/tree/master/2634-minimum-common-value) |
 ## Dynamic Programming
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Sathish-21092005/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sathish-21092005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sathish-21092005/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sathish-21092005/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2645-pass-the-pillow](https://github.com/Sathish-21092005/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sathish-21092005/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sathish-21092005/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Sathish-21092005/LeetCode/tree/master/0455-assign-cookies) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sathish-21092005/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
 | ------- |
