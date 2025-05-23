@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Sathish-21092005/LeetCode/tree/master/1944-truncate-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sathish-21092005/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2634-minimum-common-value](https://github.com/Sathish-21092005/LeetCode/tree/master/2634-minimum-common-value) |
 ## Dynamic Programming
 |  |
