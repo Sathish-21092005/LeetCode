@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sathish-21092005/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2634-minimum-common-value](https://github.com/Sathish-21092005/LeetCode/tree/master/2634-minimum-common-value) |
+| [3226-minimum-number-game](https://github.com/Sathish-21092005/LeetCode/tree/master/3226-minimum-number-game) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sathish-21092005/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Sathish-21092005/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2645-pass-the-pillow](https://github.com/Sathish-21092005/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sathish-21092005/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3226-minimum-number-game](https://github.com/Sathish-21092005/LeetCode/tree/master/3226-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sathish-21092005/LeetCode/tree/master/0455-assign-cookies) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sathish-21092005/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3226-minimum-number-game](https://github.com/Sathish-21092005/LeetCode/tree/master/3226-minimum-number-game) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sathish-21092005/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3859-maximum-product-of-two-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Greedy
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2384-root-equals-sum-of-children](https://github.com/Sathish-21092005/LeetCode/tree/master/2384-root-equals-sum-of-children) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Sathish-21092005/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
