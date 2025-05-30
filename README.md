@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Sathish-21092005/LeetCode/tree/master/0231-power-of-two) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sathish-21092005/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Sathish-21092005/LeetCode/tree/master/0389-find-the-difference) |
 | [1610-xor-operation-in-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Counting
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Sathish-21092005/LeetCode/tree/master/3226-minimum-number-game) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sathish-21092005/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
