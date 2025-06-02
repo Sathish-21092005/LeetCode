@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Sathish-21092005/LeetCode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Sathish-21092005/LeetCode/tree/master/0682-baseball-game) |
 | [0777-toeplitz-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sathish-21092005/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sathish-21092005/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Sathish-21092005/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Sathish-21092005/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sathish-21092005/LeetCode/tree/master/0342-power-of-four) |
 | [1236-n-th-tribonacci-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sathish-21092005/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Sathish-21092005/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sathish-21092005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Sathish-21092005/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Sathish-21092005/LeetCode/tree/master/0605-can-place-flowers) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sathish-21092005/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sathish-21092005/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sathish-21092005/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
