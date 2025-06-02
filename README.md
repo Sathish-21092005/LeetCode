@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2083-three-divisors](https://github.com/Sathish-21092005/LeetCode/tree/master/2083-three-divisors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sathish-21092005/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/Sathish-21092005/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -165,10 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Sathish-21092005/LeetCode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Sathish-21092005/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Sathish-21092005/LeetCode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Sathish-21092005/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Sliding Window
 |  |
