@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sathish-21092005/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sathish-21092005/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Sathish-21092005/LeetCode/tree/master/2634-minimum-common-value) |
 | [3226-minimum-number-game](https://github.com/Sathish-21092005/LeetCode/tree/master/3226-minimum-number-game) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sathish-21092005/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Sathish-21092005/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/Sathish-21092005/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sathish-21092005/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Sathish-21092005/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Sathish-21092005/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Sathish-21092005/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
