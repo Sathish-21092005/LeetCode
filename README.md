@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sathish-21092005/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Sathish-21092005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Sathish-21092005/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Sathish-21092005/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sathish-21092005/LeetCode/tree/master/0392-is-subsequence) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sathish-21092005/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Sathish-21092005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Sathish-21092005/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Sathish-21092005/LeetCode/tree/master/0455-assign-cookies) |
