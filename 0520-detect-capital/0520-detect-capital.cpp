@@ -8,7 +8,7 @@ public:
         if (!isupper(c)) allUpper = false;
         if (!islower(c)) allLower = false;
     }
-    bool firstUpperRestLower = isupper(word[0]);
+    bool firstUpperRestLower =true;
     for (int i = 1; i < word.length(); i++) {
         if (isupper(word[i])) {
             firstUpperRestLower = false;
