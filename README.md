@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0932-monotonic-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sathish-21092005/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sathish-21092005/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sathish-21092005/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sathish-21092005/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sathish-21092005/LeetCode/tree/master/0342-power-of-four) |
+| [1031-add-to-array-form-of-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sathish-21092005/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
