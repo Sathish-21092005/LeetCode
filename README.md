@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sathish-21092005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Sathish-21092005/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0551-student-attendance-record-i](https://github.com/Sathish-21092005/LeetCode/tree/master/0551-student-attendance-record-i) |
+| [0742-to-lower-case](https://github.com/Sathish-21092005/LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Sathish-21092005/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sathish-21092005/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/Sathish-21092005/LeetCode/tree/master/1297-maximum-number-of-balloons) |
