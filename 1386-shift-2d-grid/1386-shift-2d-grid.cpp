@@ -8,18 +8,13 @@ public:
 
         vector<vector<int>>result(m,vector<int>(n));
         
-        for(int i=0;i<m;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-               
-            int oldindex= i*n+j;
-            int newindex=(oldindex+k)%total;
- 
-            int nrow=newindex/ n;
-            int ncol=newindex% n;
-
-            result[nrow][ncol]=grid[i][j];
+for (int i = 0; i < m; i++) {
+    for (int j = 0; j < n; j++) {
+        int oldindex = i * n + j;
+        int newindex = (oldindex + k) % total;
+        int nrow = newindex / n;
+        int ncol = newindex % n;
+        result[nrow][ncol] = grid[i][j];
             }
         }return result;
          
