@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Sathish-21092005/LeetCode/tree/master/2634-minimum-common-value) |
 | [2737-row-with-maximum-ones](https://github.com/Sathish-21092005/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3226-minimum-number-game](https://github.com/Sathish-21092005/LeetCode/tree/master/3226-minimum-number-game) |
+| [3330-modify-the-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sathish-21092005/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3723-sum-of-good-numbers](https://github.com/Sathish-21092005/LeetCode/tree/master/3723-sum-of-good-numbers) |
 ## Dynamic Programming
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Sathish-21092005/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [3330-modify-the-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/3330-modify-the-matrix) |
 ## Sorting
 |  |
 | ------- |
