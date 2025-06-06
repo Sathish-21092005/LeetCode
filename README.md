@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sathish-21092005/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sathish-21092005/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Sathish-21092005/LeetCode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Sathish-21092005/LeetCode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Sathish-21092005/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Sathish-21092005/LeetCode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Sathish-21092005/LeetCode/tree/master/0551-student-attendance-record-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sathish-21092005/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sathish-21092005/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sathish-21092005/LeetCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Sathish-21092005/LeetCode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sathish-21092005/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Sathish-21092005/LeetCode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Sathish-21092005/LeetCode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0898-transpose-matrix) |
