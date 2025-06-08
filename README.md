@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sathish-21092005/LeetCode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Sathish-21092005/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Sathish-21092005/LeetCode/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/Sathish-21092005/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Sathish-21092005/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/Sathish-21092005/LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Sathish-21092005/LeetCode/tree/master/0812-rotate-string) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sathish-21092005/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sathish-21092005/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Sathish-21092005/LeetCode/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/Sathish-21092005/LeetCode/tree/master/0541-reverse-string-ii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Sathish-21092005/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2634-minimum-common-value](https://github.com/Sathish-21092005/LeetCode/tree/master/2634-minimum-common-value) |
