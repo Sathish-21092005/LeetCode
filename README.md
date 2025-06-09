@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sathish-21092005/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1386-shift-2d-grid](https://github.com/Sathish-21092005/LeetCode/tree/master/1386-shift-2d-grid) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sathish-21092005/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Sathish-21092005/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0898-transpose-matrix) |
 | [1386-shift-2d-grid](https://github.com/Sathish-21092005/LeetCode/tree/master/1386-shift-2d-grid) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sathish-21092005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Sathish-21092005/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
