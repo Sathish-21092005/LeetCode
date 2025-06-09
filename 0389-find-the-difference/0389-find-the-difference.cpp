@@ -5,7 +5,7 @@ public:
         int summ=0;
 
         for(char ch:s)sum+=ch;
-        for(char ch:t)summ+=ch;
+        for(char  h:t)summ+=h;
 
         return summ-sum;
         
