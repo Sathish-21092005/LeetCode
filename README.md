@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sathish-21092005/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Sathish-21092005/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sathish-21092005/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sathish-21092005/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sathish-21092005/LeetCode/tree/master/0242-valid-anagram) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sathish-21092005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Sathish-21092005/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sathish-21092005/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Sathish-21092005/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sathish-21092005/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sathish-21092005/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sathish-21092005/LeetCode/tree/master/0344-reverse-string) |
