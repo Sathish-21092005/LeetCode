@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sathish-21092005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sathish-21092005/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Sathish-21092005/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Sathish-21092005/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sathish-21092005/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/Sathish-21092005/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/Sathish-21092005/LeetCode/tree/master/2634-minimum-common-value) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Sathish-21092005/LeetCode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Sathish-21092005/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sathish-21092005/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sathish-21092005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/Sathish-21092005/LeetCode/tree/master/2083-three-divisors) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Sathish-21092005/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sathish-21092005/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sathish-21092005/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/Sathish-21092005/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sathish-21092005/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sathish-21092005/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Sathish-21092005/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Sathish-21092005/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2486-most-frequent-even-element](https://github.com/Sathish-21092005/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Sathish-21092005/LeetCode/tree/master/2083-three-divisors) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Sathish-21092005/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2507-number-of-common-factors](https://github.com/Sathish-21092005/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Sliding Window
 |  |
