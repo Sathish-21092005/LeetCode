@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sathish-21092005/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sathish-21092005/LeetCode/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/Sathish-21092005/LeetCode/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sathish-21092005/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sathish-21092005/LeetCode/tree/master/0198-house-robber) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sathish-21092005/LeetCode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Sathish-21092005/LeetCode/tree/master/2634-minimum-common-value) |
