@@ -7,7 +7,7 @@ public:
         for(char ch:s)sum+=ch;
         for(char  h:t)summ+=h;
 
-        return summ-sum;
+        return (char)summ-sum;
         
     }
 };
