@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sathish-21092005/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Sathish-21092005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Sathish-21092005/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Sathish-21092005/LeetCode/tree/master/0392-is-subsequence) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sathish-21092005/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Sathish-21092005/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Sathish-21092005/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Sathish-21092005/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sathish-21092005/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sathish-21092005/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Sathish-21092005/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sathish-21092005/LeetCode/tree/master/0191-number-of-1-bits) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sathish-21092005/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
