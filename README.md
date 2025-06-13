@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sathish-21092005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Sathish-21092005/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Sathish-21092005/LeetCode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Sathish-21092005/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sathish-21092005/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Sathish-21092005/LeetCode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sathish-21092005/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -328,9 +330,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sathish-21092005/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sathish-21092005/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sathish-21092005/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
