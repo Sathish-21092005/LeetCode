@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Sathish-21092005/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sathish-21092005/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1635-number-of-good-pairs](https://github.com/Sathish-21092005/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1830-count-good-meals](https://github.com/Sathish-21092005/LeetCode/tree/master/1830-count-good-meals) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sathish-21092005/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Sathish-21092005/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Sathish-21092005/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Sathish-21092005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Sathish-21092005/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sathish-21092005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1830-count-good-meals](https://github.com/Sathish-21092005/LeetCode/tree/master/1830-count-good-meals) |
 | [1944-truncate-sentence](https://github.com/Sathish-21092005/LeetCode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sathish-21092005/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
