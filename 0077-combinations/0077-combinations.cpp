@@ -13,9 +13,9 @@ public:vector<vector<int>> combine(int n, int k) {
         }
 
         for (int i = start; i <= n; ++i) {
-            current.push_back(i);              // Choose
-            backtrack(i + 1, n, k, current, result); // Explore
-            current.pop_back();                // Un-choose
+            current.push_back(i);            
+            backtrack(i + 1, n, k, current, result); 
+            current.pop_back();               
         }
     }
 };
