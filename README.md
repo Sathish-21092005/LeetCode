@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sathish-21092005/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/Sathish-21092005/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Sathish-21092005/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Sathish-21092005/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Sathish-21092005/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sathish-21092005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/Sathish-21092005/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Sathish-21092005/LeetCode/tree/master/2634-minimum-common-value) |
 ## Linked List
