@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sathish-21092005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Sathish-21092005/LeetCode/tree/master/0682-baseball-game) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Sathish-21092005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Sathish-21092005/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sathish-21092005/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/Sathish-21092005/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Sathish-21092005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Sathish-21092005/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Sathish-21092005/LeetCode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sathish-21092005/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Sathish-21092005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
