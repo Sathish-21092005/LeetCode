@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Sathish-21092005/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/Sathish-21092005/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Sathish-21092005/LeetCode/tree/master/0812-rotate-string) |
 ## Array
 |  |
@@ -330,11 +331,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sathish-21092005/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sathish-21092005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Sathish-21092005/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sathish-21092005/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Sathish-21092005/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Heap (Priority Queue)
 |  |
@@ -375,5 +378,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sathish-21092005/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sathish-21092005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sathish-21092005/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
