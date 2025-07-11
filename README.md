@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sathish-21092005/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sathish-21092005/LeetCode/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/Sathish-21092005/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Sathish-21092005/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sathish-21092005/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sathish-21092005/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sathish-21092005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Sathish-21092005/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Sathish-21092005/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sathish-21092005/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Sathish-21092005/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sathish-21092005/LeetCode/tree/master/0171-excel-sheet-column-number) |
