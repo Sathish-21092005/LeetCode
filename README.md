@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sathish-21092005/LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sathish-21092005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/Sathish-21092005/LeetCode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sathish-21092005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Sathish-21092005/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -334,12 +335,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sathish-21092005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Sathish-21092005/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sathish-21092005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Sathish-21092005/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sathish-21092005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Sathish-21092005/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Sathish-21092005/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Heap (Priority Queue)
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sathish-21092005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Sathish-21092005/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sathish-21092005/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Hash Function
