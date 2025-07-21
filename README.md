@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sathish-21092005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sathish-21092005/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sathish-21092005/LeetCode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Sathish-21092005/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sathish-21092005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sathish-21092005/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sathish-21092005/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sathish-21092005/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Sathish-21092005/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sathish-21092005/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Sathish-21092005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Sathish-21092005/LeetCode/tree/master/0118-pascals-triangle) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sathish-21092005/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Sathish-21092005/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Sathish-21092005/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Sathish-21092005/LeetCode/tree/master/0455-assign-cookies) |
