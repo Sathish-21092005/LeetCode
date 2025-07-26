@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Sathish-21092005/LeetCode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sathish-21092005/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Sathish-21092005/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Depth-First Search
 |  |
 | ------- |
