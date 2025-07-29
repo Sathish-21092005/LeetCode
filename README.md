@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sathish-21092005/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Sathish-21092005/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Sathish-21092005/LeetCode/tree/master/0595-big-countries) |
+| [1877-find-followers-count](https://github.com/Sathish-21092005/LeetCode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sathish-21092005/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Depth-First Search
 |  |
