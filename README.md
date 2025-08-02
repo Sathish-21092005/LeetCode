@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Sathish-21092005/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Sathish-21092005/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Sathish-21092005/LeetCode/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/Sathish-21092005/LeetCode/tree/master/0619-biggest-single-number) |
 | [1877-find-followers-count](https://github.com/Sathish-21092005/LeetCode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sathish-21092005/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sathish-21092005/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
